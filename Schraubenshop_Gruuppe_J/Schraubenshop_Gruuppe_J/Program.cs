@@ -12,7 +12,6 @@ namespace Schraubenshop_Gruuppe_J
         {
             Console.WriteLine("Willkommen im Schraubenshop!");    //Begrüßung
             auswahlSM();
-
             //Ausgabe
             //Preis etc.
         }
